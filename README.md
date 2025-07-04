@@ -18,5 +18,3 @@ This lab provides an opportunity to practice DOM manipulation by building a calc
 ## Deployed sites
 
 🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/dom-events-lab-solution/)
-
-
